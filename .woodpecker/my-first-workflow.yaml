@@ -2,7 +2,7 @@ when:
   - event: push
     branch: main
 
-# .woodpecker.ya
+# .woodpecker.y
 
 steps:
   - name: publish
